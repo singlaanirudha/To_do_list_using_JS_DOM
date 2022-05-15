@@ -11,7 +11,7 @@ To do list using html, css, java script dom syatem.
 ### 3. Read tasks
 ### 4. Delete tasks
 
- **TECHNOLOGY USED**
+## **TECHNOLOGY USED**
  1. ***FRONT END-*** 
     HTML,
     CSS,
