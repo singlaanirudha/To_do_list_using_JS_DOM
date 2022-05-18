@@ -21,7 +21,6 @@ rootElement.appendChild(list);
 let button_rem = document.createElement('button');
 button_rem.setAttribute('type', "button");
 button_rem.innerHTML = "Remove All";
-// button_rem.style.cssText = "padding:10px 20px; margin-top:40px; background-color:rgb(15, 60, 108); border:none; border-radius:5px; font-weight:bold; cursor: pointer";
 rootElement.appendChild(button_rem);
 button_rem.addEventListener('click', removeall);
 
@@ -47,7 +46,6 @@ function additem(){
         btn.innerHTML = '-';
         btn.addEventListener('click', remove);
         btn.classList.add('btn');
-        // btn.style.cssText = "float:right; clear:both; margin-top:-9px";
         li.appendChild(btn);
     }
 
